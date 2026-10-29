@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gcorreav
-- 👀 I’m interested in Cloud Computing (IaaS and PaaS), IT Security, Digital forensics, History and languages (Español, English, Deutsch, Русский and 中文)
+- 👀 I’m interested in Cloud Computing (IaaS and PaaS), IT Security, Digital forensics, History, Economics and languages (Español, English, Deutsch, Français, Русский and 中文)
 - 🌱 There's still a lot to learn
 - 📫 How to reach me ... (still working on it)
 
